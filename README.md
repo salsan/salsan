@@ -1,4 +1,4 @@
-#  <p align="center"> [&lt;salsan/&gt;](https://www.salsan.dev/) </p> #
+#  <p align="center"> [&lt;salsan/&gt;](https://salsan.dev/) </p> #
 
 
 
