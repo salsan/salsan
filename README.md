@@ -1,6 +1,6 @@
 #  <p align="center"> [&lt;salsan/&gt;](https://salsan.dev/) </p> #
 <p align="center"> 
-  <a href="https://github.com/salsan">
+  <a href="https://github.com/salsan?tab=followers">
    <img align="center" src="https://img.shields.io/github/followers/salsan?style=for-the-badge&logo=github&labelColor=000&color=white" />
  </a>
  <a href="https://stackoverflow.com/users/1501286/salsan">
