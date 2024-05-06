@@ -16,7 +16,7 @@
   <a href="https://github.com/salsan">
     <img align="center" src="https://img.shields.io/github/stars/salsan?style=for-the-badge&logo=github&labelColor=000&color=white" />
   </a>
-<a href="https://www.npmjs.com/package/salsan">
+<a href="https://www.npmjs.com/~salsan">
  <img align="center" src="https://img.shields.io/npm-stat/dm/salsan?style=for-the-badge&logo=npm&labelColor=000&color=white" />
   </a> 
 </p>
